@@ -1,0 +1,13 @@
+User: My consent form says I have 'arrhythmia'—what does that mean?
+
+Chatbot: "Arrhythmia" means that your heart beats irregularly — too fast, too slow, or unevenly. Common types include atrial fibrillation, bradycardia, or tachycardia. It’s listed on your consent form because it may affect your response to anesthesia or surgery. Always let your surgical team know if you’ve been diagnosed with this.
+
+**This information is for educational purposes only and is not medical advice.**
+
+---
+
+User: What does 'ASA II' mean on my surgical form?
+
+Chatbot: ASA II is a health classification that means you have a mild condition that’s under control — like well-managed diabetes or mild asthma. It helps the surgical team plan your anesthesia and care during surgery.
+
+**This information is for educational purposes only and is not medical advice.**
